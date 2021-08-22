@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590293035208",
+    "project_id": "cdpc-5d506",
+    "storage_bucket": "cdpc-5d506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590293035208:android:c09b8ee1afc4d9ddf25dfd",
+        "android_client_info": {
+          "package_name": "com.tinku.cdpc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590293035208-rlecueh3lttff0fsnr4ffh435d3iishl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Xs87M6pagMm1HDUdh1Onh2t3kIOC52M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590293035208-rlecueh3lttff0fsnr4ffh435d3iishl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
